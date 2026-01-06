@@ -36,27 +36,27 @@
 
 }
 
-.header__menu{
+.header_menu{
 
 }
 
-.header__links-list{
+.header_links-list{
 
 }
 
-.header__links-list-item{
+.header_links-list-item{
 
 }
 
-.header__links-list-item_no-bullit{
+.header_links-list-item_no-bullit{
 
 }
 
-.header__link{
+.header_link{
 
 }
 
-.header__link_active{
+.header_link_active{
 
 }
 
@@ -75,7 +75,7 @@
   align-items: flex-start;
 }
 
-.header__address{
+.header_address{
 
 }
 
@@ -83,7 +83,7 @@
 
 }
 
-.cover__title{
+.cover_title{
 
 }
 
@@ -111,11 +111,11 @@
 
 }
 
-.cover__description{
+.cover_description{
 
 }
 
-.cover__description-text{
+.cover_description-text{
 
 }
 
@@ -127,15 +127,15 @@
 
 }
 
-.lots__heading{
+.lots_heading{
 
 }
 
-.lots__card-list{
+.lots_card-list{
 
 }
 
-.lots__card-list-item{
+.lots_card-list-item{
 
 }
 
@@ -163,15 +163,15 @@
 
 }
 
-.card__title{
+.card_title{
 
 }
 
-.card__text{
+.card_text{
 
 }
 
-.lots__look-more-link{
+.lots_look-more-link{
 
 }
 
@@ -179,58 +179,58 @@
 
 }
 
-.about__column{
+.about_column{
 
 }
 
-.about__logo{
+.about_logo{
 
 }
 
-.about__logo-image{
+.about_logo-image{
 
 }
 
-.about__title{
+.about_title{
 
 }
 
-.about__text{
+.about_text{
 
 }
 
-.footer__menu{
+.footer_menu{
 
 }
 
-.footer__menu-list{
+.footer_menu-list{
 
 }
 
-.footer__menu-list-item{
+.footer_menu-list-item{
 
 }
 
-.footer__menu-link{
+.footer_menu-link{
 
 }
 
-.footer__menu-link_active{
+.footer_menu-link_active{
 
 }
 
-.footer__social-list{
+.footer_social-list{
 
 }
 
-.footer__social-list-item{
+.footer_social-list-item{
 
 }
 
-.footer__social-link{
+.footer_social-link{
 
 }
 
-.footer__social-icon{
+.footer_social-icon{
 
 }
