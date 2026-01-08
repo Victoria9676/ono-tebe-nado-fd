@@ -86,11 +86,7 @@ body {
   z-index: 2;
   display: flex;
   flex-direction: column;
-  gap: 30px;
   padding-top: 165px;
-}
-
-.aligned-text {
   color: rgba(255, 255, 255, 1);
   font-weight: bold;  
   text-transform: uppercase;
@@ -99,7 +95,7 @@ body {
   letter-spacing: 30px;
 }
 
-.aligned-text > span {
+.cover_title > span {
   display: block;
   width: 100%;
 }
@@ -140,6 +136,8 @@ body {
 }
 
 .bet-button {
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
   margin-right: 50px;
   border: 1px solid white;
   padding: 12px 32px 11px 31px;
