@@ -164,7 +164,7 @@
   display: flex;
   flex-wrap: wrap;
   align-items: stretch;
-  justify-content: space-between;
+  justify-content: start;
   gap: 25px;
   margin-top: 27px;
   list-style: none;
@@ -173,7 +173,6 @@
   display: flex;
   align-items: stretch;
   max-width: 334px;
-  flex: 1;
 }
 
 .card-link {
