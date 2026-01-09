@@ -162,16 +162,18 @@
 
 .lots_card-list {
   display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
   justify-content: space-between;
   gap: 25px;
   margin-top: 27px;
   list-style: none;
-  flex-wrap: wrap;
 }
-
 .lots_card-list-item {
+  display: flex;
+  align-items: stretch;
   max-width: 334px;
-  flex-grow: 1;
+  flex: 1;
 }
 
 .card-link {
@@ -200,14 +202,13 @@
 .card {
   position: relative;
   display: grid;
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-rows: auto 1fr;
   grid-template-areas:
     "card_title"
     "card_text";
-  min-height: 596px;
-  max-height: 596px;
-  height: 100%;
   color: rgba(255, 255, 255, 1);
+  min-height: 596px;
+  height: 100%;
 }
 
 .card_title {
@@ -229,7 +230,7 @@
   justify-content: start;
   align-items: end;
   z-index: 2;
-  padding: 0 40px 48px;
+  padding: 30px 40px 48px;
   font-size: 20px;
   line-height: 1.2;
 }
